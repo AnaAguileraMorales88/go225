@@ -7,7 +7,7 @@ func main() {
 
 	if edad >= 18 {
 		fmt.Println("Puedes pasar")
-	} else {
+	}else {
 		fmt.Println("No puedes pasar")
 	}
 }
